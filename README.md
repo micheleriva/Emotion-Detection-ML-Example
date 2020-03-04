@@ -8,4 +8,4 @@ $ yarn install
 $ node index.js
 ```
 
-Read the full article [Here](https://medium.com/epk-cloud-engineering/emotion-detection-with-javascript-neural-networks-5a408f84eb75)
+Read the full article [Here](https://www.hackdoor.io/articles/WjpmYpPD/emotion-detection-with-javascript-neural-networks)
